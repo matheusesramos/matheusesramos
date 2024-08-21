@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer @Cash.in</p>
+<p align="left">Full Stack Developer</p>
 
 ###
 
